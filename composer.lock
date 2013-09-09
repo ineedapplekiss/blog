@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "32f8b243f5134add555992481aaf6f07",
+    "hash": "8789e63822b5958da8d87eebbe17cbfb",
     "packages": [
         {
             "name": "guiguiboy/php-cli-progress-bar",
