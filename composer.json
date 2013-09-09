@@ -1,5 +1,5 @@
 {
-    "name": "blog",
+    "name": "shang/sina_blog",
     "type": "library",
     "description": "export sina blog",
     "keywords": ["tool","export tool"],
